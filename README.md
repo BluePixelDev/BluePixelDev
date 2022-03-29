@@ -4,6 +4,6 @@
 - 🏫 Student in an IT school 
  
 - ⌨ I can code in Java, C#, Javascript, nodejs.
-- ⚡ Fun fact: Canonically blue pixel
+- ⚡ Fun fact: Canonically a blue pixel
 
 >*Some school projects will be in my repositories*
