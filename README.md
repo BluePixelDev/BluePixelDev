@@ -1,9 +1,8 @@
 **About Me**
-- 💻I'am a unity developer
-- 🎮 I'am currently working on game, *Re-Take*
-- 🏫 Student in an IT school 
- 
-- ⌨ I can work in Java, C#, Javascript, nodeJS.
+- 💻 A unity game dev
+- 🎮 Currently working on game
+- 🏫 Student
+- ⌨ I can work in Java, C#, Javascript.
 - ⚡ Fun fact: Canonically a blue pixel
 
 >*Some school projects will be in my repositories*
