@@ -4,6 +4,7 @@ Hello, my name is Ondřej. I am a Unity game developer, C# programmer and web de
 # Skills
 - Unity
 - C#
+- Python
 - Javascript / Typescript
 - HTML/CSS
 - MySQL
@@ -12,5 +13,5 @@ Hello, my name is Ondřej. I am a Unity game developer, C# programmer and web de
 - 💻 Unity game dev
 - 🎮 Working on a game.
 - 🏫 IT Student
-- ⌨ Works in Java, C#, Javascript, HTML, CSS.
+- ⌨ Works in C#, Javascript, HTML, CSS.
 - ⚡ Canonically a blue pixel
