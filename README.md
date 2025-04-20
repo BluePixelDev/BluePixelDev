@@ -1,17 +1,34 @@
-# About Me
-Hello, my name is Ondřej. I am a Unity game developer, C# programmer and web developer. Currently, I am working on my passion project, Retake. It is a Fast-Paced FPS, Rogulike game set in cyberspace in 2054.
+![Static Badge](https://img.shields.io/badge/Working%20on-Soulbound-green)
+
+# 👋 Hey there!
+I'm a Unity game developer and programmer with a passion for crafting interactive worlds and intuitive user experiences. I mostly work in **Unity** with **C#**, but I also enjoy building for the web with **JavaScript**, **TypeScript**, **React**, and **Svelte**.
+
+---
+
+## 🧠 About Me
+
+- 🎮 Focused on game dev and interactive experiences  
+- 🛠️ Building **Soulbound**, my current main project  
+- 💡 Always exploring new tools and creative workflows  
+- 🧩 Interested in systems design, UI/UX, and game mechanics  
+- ☁️ Sometimes dabble in desktop apps with **Tauri**
 
 # Skills
-- Unity
-- C#
-- Python
-- Javascript / Typescript
-- HTML/CSS
-- MySQL
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,react)](https://skillicons.dev)
 
-##  Facts About Me
-- 💻 Unity game dev
-- 🎮 Working on a game.
-- 🏫 IT Student
-- ⌨ Works in C#, Javascript, HTML, CSS.
-- ⚡ Canonically a blue pixel
+## 🧰 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,js,ts,react,svelte,html,css,py&perline=6)](https://skillicons.dev)
+
+## 🛠️ Tools I Use
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,notion,obsidian,blender,aseprite&perline=6)](https://skillicons.dev)
+
+- 🧠 Notes & Docs: `Notion`, `Obsidian`, `PureRef`  
+- 🎨 Design & Assets: `Blender`, `Aseprite`, `Penpot`
+
+---
+
+## 📫 Let's Connect
+
+Feel free to check out my projects or reach out if you want to collaborate or chat!
