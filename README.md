@@ -8,7 +8,7 @@ I'm a Unity game developer and programmer with a passion for crafting interactiv
 ## 🧠 About Me
 
 - 🎮 Focused on game dev and interactive experiences  
-- 🛠️ Building **Soulbound**, my current main project  
+- 🛠️ Working on a game **Soulbound**, my current main project
 - 💡 Always exploring new tools and creative workflows  
 - 🧩 Interested in systems design, UI/UX, and game mechanics  
 - ☁️ Sometimes dabble in desktop apps with **Tauri**
