@@ -14,11 +14,7 @@ I'm a Unity game developer and programmer with a passion for crafting interactiv
 - ☁️ Sometimes dabble in desktop apps with **Tauri**
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,react)](https://skillicons.dev)
-
-## 🧰 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,js,ts,react,svelte,html,css,py&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,js,ts,react,svelte,html,css,py)](https://skillicons.dev)
 
 ## 🛠️ Tools I Use
 
