@@ -1,12 +1,10 @@
-![Static Badge](https://img.shields.io/badge/Working%20on-Soulbound-green)
+![Static Badge](https://img.shields.io/badge/Working%20on-Soulbound-purple?style=flat-square&color=%23C22141)
+[![Static Badge](https://img.shields.io/badge/Working%20on-Boardify-purple?style=flat-square&color=%23aa52bf)](https://github.com/bluepixeldev/boardify)
 
 # 👋 Hey there!
 I'm a Unity game developer and programmer with a passion for crafting interactive worlds and intuitive user experiences. I mostly work in **Unity** with **C#**, but I also enjoy building for the web with **JavaScript**, **TypeScript**, **React**, and **Svelte**.
 
----
-
 ## 🧠 About Me
-
 - 🎮 Focused on game dev and interactive experiences  
 - 🛠️ Working on a game **Soulbound**, my current main project
 - 💡 Always exploring new tools and creative workflows  
@@ -17,7 +15,6 @@ I'm a Unity game developer and programmer with a passion for crafting interactiv
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,js,ts,react,svelte,html,css,py)](https://skillicons.dev)
 
 ## 🛠️ Tools I Use
-
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,notion,obsidian,blender,aseprite&perline=6)](https://skillicons.dev)
 
 - 🧠 Notes & Docs: `Notion`, `Obsidian`, `PureRef`  
