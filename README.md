@@ -1,5 +1,3 @@
-![Static Badge](https://img.shields.io/badge/Soulbound%20-%20purple?style=flat&label=Working%20on&color=purple&link=bluepixeldev.com%2Fsoulbound)
-
 # 👋 Hey there!
 I'm a Unity game developer and programmer with a passion for crafting interactive worlds and intuitive user experiences. I mostly work in **Unity** with **C#**, but I also enjoy building for the web with **JavaScript**, **TypeScript**, **React**, and **Svelte**.
 
