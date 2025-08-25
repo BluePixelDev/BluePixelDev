@@ -12,10 +12,10 @@ I'm a Unity game developer and programmer with a passion for crafting interactiv
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,js,ts,react,svelte,html,css,py)](https://skillicons.dev)
 
 ## 🛠️ Tools I Use
-[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,notion,obsidian,blender,aseprite&perline=6)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,blender,aseprite&perline=6)](https://skillicons.dev)
 
-- 🧠 Notes & Docs: `Notion`, `Obsidian`, `PureRef`  
-- 🎨 Design & Assets: `Blender`, `Aseprite`, `Penpot`
+- 🧠 Notes & Docs: `Obsidian`, `PureRef`  
+- 🎨 Design & Assets: `Blender`, `Aseprite`, `Penpot`, `Affinity Designer 2`
 
 ---
 
