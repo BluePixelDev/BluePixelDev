@@ -1,24 +1,26 @@
-# 👋 Hey there!
-I'm a Unity game developer and programmer with a passion for crafting interactive worlds and intuitive user experiences. I mostly work in **Unity** with **C#**, but I also enjoy building for the web with **JavaScript**, **TypeScript**, **React**, and **Svelte**.
+# Hi there! :wave:
+I'm **Ondra** - A **Game**/**Fullstack** developer that likes to explore new technologies, worfkflows and programming languages.
+Right now I am learning **Rust**, so I can deepen my coding abilities and write blazingly **fast** and **secure** low level code in the **tauri** framework.
 
-## 🧠 About Me
-- 🎮 Focused on game dev and interactive experiences  
-- 🛠️ Working on a game **Soulbound**, my current main project
-- 💡 Always exploring new tools and creative workflows  
-- 🧩 Interested in systems design, UI/UX, and game mechanics  
-- ☁️ Sometimes dabble in desktop apps with **Tauri**
+## About me
+### Tools I use
+Here is a list of tools I use on the regular.
 
-# Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,js,ts,react,svelte,html,css,py)](https://skillicons.dev)
+| Category  |         Tool          |
+|-----------|-----------------------|
+|**IDE**    | Zed, VScode, Visual Studio, Intelij Rider|
+|**Notes/Docs**  | Obsidian, Apostrophe  |
+|**Design** | Penpot, PureRef       |
 
-## 🛠️ Tools I Use
-[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,blender,aseprite&perline=6)](https://skillicons.dev)
 
-- 🧠 Notes & Docs: `Obsidian`, `PureRef`  
-- 🎨 Design & Assets: `Blender`, `Aseprite`, `Penpot`, `Affinity Designer 2`
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,js,ts,react,svelte,html,css,py,rust)](https://skillicons.dev)
 
----
+### Favorite Games
+- Helldivers 2
+- Prey (2017)
+- Fallout New Vegas
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to check out my projects or reach out if you want to collaborate or chat!
