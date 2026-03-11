@@ -1,6 +1,6 @@
 # Hi there! :wave:
 I'm **Ondra** - A **Game**/**Fullstack** developer that likes to explore new technologies, worfkflows and programming languages.
-Right now I am learning **Rust**, so I can deepen my coding abilities and write blazingly **fast** and **secure** low level code in the **tauri** framework.
+Right now I am learning **Rust** so I can deepen my coding abilities and write blazingly **fast** and **secure** low level code. *(Though I am not doing because of the hype :D)*
 
 ## About me
 ### Tools I use
